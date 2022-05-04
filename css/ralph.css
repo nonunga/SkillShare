@@ -48,3 +48,8 @@ a:hover{
 footer{
 	background-color: lightgray;
 }
+
+p.caption{
+	color: brown;
+	font-style: italic;
+}
